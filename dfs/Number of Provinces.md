@@ -7,6 +7,8 @@ and isConnected[i][j] = 0 otherwise.
 Return the total number of provinces.
 ```
 
+
+https://leetcode.com/problems/number-of-provinces/submissions/1984478876/
 **Example 1:**
 
 ![Trapping Rain Water Example](../assets/graph1.jpg)
