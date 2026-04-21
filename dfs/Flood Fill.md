@@ -19,7 +19,7 @@ Input: image = [[1,1,1],[1,1,0],[1,0,1]], sr = 1, sc = 1, color = 2
 Output: [[2,2,2],[2,2,0],[2,0,1]]
 ```
 **Explanation:**
-![Trapping Rain Water Example](assets/flood1-grid.jpg)
+![Trapping Rain Water Example](../assets/flood1-grid.jpg)
 
 ```swift
 From the center of the image with position (sr, sc) = (1, 1) (i.e., the red pixel), all pixels connected by a path of the same color as the starting pixel (i.e., the blue pixels) are colored with the new color.
