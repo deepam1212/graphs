@@ -1,4 +1,5 @@
 **You have a data structure of employee information, including the employee's unique ID, importance value, and direct subordinates' IDs.**
+https://leetcode.com/problems/employee-importance/submissions/1984451899/
 ```swift
 You are given an array of employees employees where:
 
