@@ -8,7 +8,7 @@ The island doesn't have "lakes", meaning the water inside isn't connected to the
  
 
 **Example 1:**
-![Trapping Rain Water Example](assets/island.png)
+![Trapping Rain Water Example](../assets/island.png)
 
 ```swift
 Input: grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]
