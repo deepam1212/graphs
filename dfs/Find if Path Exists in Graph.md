@@ -11,7 +11,7 @@ https://leetcode.com/problems/find-if-path-exists-in-graph/submissions/198445582
 **Example 1:**
 
 
-![Trapping Rain Water Example](assets/validpath-ex1.png)
+![Trapping Rain Water Example](../assets/validpath-ex1.png)
 
 
 
@@ -24,7 +24,7 @@ Explanation: There are two paths from vertex 0 to vertex 2:
 ```
 **Example 2:**
 
-![Trapping Rain Water Example](assets/validpath-ex2.png)
+![Trapping Rain Water Example](../assets/validpath-ex2.png)
 
 ```swift
 Input: n = 6, edges = [[0,1],[0,2],[3,5],[5,4],[4,3]], source = 0, destination = 5
