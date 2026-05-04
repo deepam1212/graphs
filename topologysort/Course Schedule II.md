@@ -9,7 +9,7 @@ Return the ordering of courses you should take to finish all courses. If there a
 
 
 ```swift
-Example 1:
+Example 1::
 
 Input: numCourses = 2, prerequisites = [[1,0]]
 Output: [0,1]
